@@ -1,0 +1,143 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312"><meta http-equiv="Content-Language" content="zh-cn"><!-- #BeginEditable "doctitle" -->
+<title>个人网站的主页</title><!-- #EndEditable -->
+<style fprolloverstyle>A:hover {color: red; font-weight: bold}
+</style>
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=1.0)">
+<style type="text/css">
+.ms-color2-even {
+	color: black;
+	border-style: none;
+	background-color: #FFFFEF;
+}
+.ms-color2-main {
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom: 1.5pt solid black;
+	background-color: silver;
+}
+.style1 {
+	font-family: 宋体, Arial, Helvetica, sans-serif;
+}
+.style2 {
+	nav-banner-image: url(btzbanna.gif);
+	separator-image: url(btzhsepa.gif);
+	list-image-1: url(btzbul1a.gif);
+	list-image-2: url(btzbul2a.gif);
+	list-image-3: url(btzbul3a.gif);
+	navbutton-horiz-normal: url(btznvhna.gif);
+	navbutton-horiz-hovered: url(btznvhha.gif);
+	navbutton-horiz-pushed: url(btznvhsa.gif);
+	navbutton-vert-normal: url(btznvvna.gif);
+	navbutton-vert-pushed: url(btznvvsa.gif);
+	navbutton-vert-hovered: url(btznvvha.gif);
+	navbutton-home-normal: url(btzhomna.gif);
+	navbutton-home-hovered: url(btzhomha.gif);
+	navbutton-next-normal: url(btznexna.gif);
+	navbutton-next-hovered: url(btznexha.gif);
+	navbutton-prev-normal: url(btzprena.gif);
+	navbutton-prev-hovered: url(btzpreha.gif);
+	navbutton-up-normal: url(btzupbna.gif);
+	navbutton-up-hovered: url(btzupbha.gif);
+	navbutton-background-color: #FFFFFF;
+	top-bar-button: url(btznavgl.gif);
+	background-color: #3399FF;
+}
+.style3 {
+	color: black;
+	border-style: solid;
+	background-color: #FFFFEF;
+}
+.style4 {
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom: 1px solid black;
+	background-color: #6699FF;
+}
+</style>
+<!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/blitz/blit1111-936.css"><meta name="Microsoft Theme" content="blitz 1111">
+<meta name="Microsoft Border" content="tlb, default">
+</head><body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399FF">
+
+<p><strong class="UserToolbar"><span style="font-size: x-large">
+<marquee style="height: 40px; color: #000099; background-color: #3366FF; font-family: 'Times New Roman', Times, serif;">欢 迎 访 问 PomeloCapital</marquee></span></strong>
+</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>
+</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+<table border="0" cellspacing="5" cellpadding="5" align="left" class="style4">
+	<!-- fpstyle: 9,111110000 -->
+	<tr>
+		<td class="ms-color2-even"><p align="center"><font color="#0000FF"><b>我的导航-网络</b></font></td>
+		<td class="ms-color2-even" style="height: 28px"><p align="center"><font color="#0000FF"><b>
+		我的导航-本地</b></font></td>
+	</tr>
+	<tr>
+		<td class="ms-color2-even"><b><blink><span class="style1"><a href="http://www.2345.com/" style="text-decoration: none">
+		<strong>2345导航</strong></a><strong>&nbsp; </strong> <a href="https://hao.360.cn/" style="text-decoration: none">
+		<strong>360导航</strong></a><strong>&nbsp; </strong> <a href="https://www.baidu.com/" style="text-decoration: none">
+		<strong>百度</strong></a><strong>&nbsp; </strong>
+		<a href="http://cn.bing.com/"><strong>必应</strong></a></span></blink></b><span class="style1"><strong><br>
+		<br>
+		<a href="https://baike.baidu.com/">百度百科</a>&nbsp;
+		<a href="https://www.wikipedia.org/">Wiki百科</a></strong></span><p>
+	<b><blink>&nbsp; </blink></b></td>
+		<td class="ms-color2-even" style="height: 178px"><h3>&nbsp;</h3>
+		<h3><b><a href="我的导航-本地/这台电脑.lnk" style="text-decoration: none">
+		<span style="font-style: normal">计算机</span></a><span style="font-style: normal">&nbsp; <a href="../../../../" style="text-decoration: none">
+		E盘软件</a> <a href="file:///F:/" style="text-decoration: none">文档盘</a>&nbsp; <a href="file:///G:/" style="text-decoration: none">
+		娱乐盘</a>&nbsp; <a href="我的导航-本地/控制面板.lnk" style="text-decoration: none">
+		控制面板</a> </span></b></h3><p><b><a href="file:///C:/Users/yanxin/Desktop/z我的资料" style="text-decoration: none"><span style="font-style: normal">
+		我的资料</span></a></b><p>　<p>　</td>
+	</tr>
+	<tr>
+		<td class="style3" style="width: 626px">
+	<span style="font-style: normal">
+	<marquee style="font-family: 宋体; color: #0000FF; font-weight: bold; border-style: outset; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; text-decoration:blink; letter-spacing:1pt; list-style-type:decimal" class="style2" width="477" height="19" id="我的常搜0">工具</marquee></span><br>
+	<br>
+	<b><blink>
+	<a href="http://c33.yunpan.360.cn/my/index/" style="text-decoration: none">360云</a>&nbsp; <a href="http://pan.baidu.com/disk/home?errno=0&errmsg=Auth Login Sucess&stoken=6aa16e361b1eeeeba85306c142680522262eba78ce69e6eb80406a4b8c540786a75fdf2a76f0d3d72f3e196cef069e721ab65dddec69bd08d19001409a591571367e6e382e58&bduss=38a8269f4b8b8f844deaec76cc7901192ca5bb781b6aba683c7c8198f919c52f38bc9f898131a8b4352a774c5e599f9d72e3b0b566db0208e78869861bbe9f8d01386f5fe18a8a085e8d924b2528046eef8d908c60c15b5c6058364c2656a635e03b65a174ccfc90b69f327a7edae8aea6bb606d70d8a6931cb0be6bba34da5dea3ad650eea7f36d0624f8044490a688ca4586067141f1ac957b163216fc0e9769cd5445cea1eda2150eda9dea1c5500e944176c977a7abd94eeacd36703645f8d8c3ef79f32&ssnerror=0#list/path=/" style="text-decoration: none">百度云</a> <a href="https://translate.google.cn/" style="text-decoration: none">谷歌翻译</a>
+	<a href="http://fy.iciba.com/">词霸在线翻译</a> <a href="http://fanyi.youdao.com/">
+	有道在线翻译</a></blink></b><p><b><blink><a href="http://www.henu.edu.cn/" style="text-decoration: none">河大邮箱</a> </blink></b></p>
+	<p><b><blink><a href="http://email.163.com/" style="text-decoration: none">网易邮箱</a></blink></b><p>　<p>　<p>　<p>　<p>　<p>　</td>
+	<td class="style3" style="height: 351px; width: 618px">
+	<span style="font-style: normal">
+	<marquee style="font-family: 宋体; color: #0000FF; font-weight: bold; border-style: outset; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; text-decoration:blink; letter-spacing:1pt; list-style-type:decimal" class="style2" width="477" height="19" id="我的常搜">我的常搜</marquee></span><p><font size="2"><a href="http://www.henu.edu.cn/" style="text-decoration: none">
+	<span style="font-style: normal" class="ms-announcementtitle">河南大学</span></a><span style="font-style: normal"> 
+	<b> <a href="http://lib.henu.edu.cn/" style="text-decoration: none">河南大学图书馆</a>&nbsp; <a href="http://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&search_mode=GeneralSearch&SID=4AzjgHwgjrGmAcaZfvi&preferencesSaved=" style="text-decoration: none">
+	web of science</a> </b> </span></font></p><p><font size="2"><a href="http://pubs.acs.org/journal/jacsat" style="text-decoration: none">
+	<span style="font-style: normal" class="ms-announcementtitle">JACS</span></a><span style="font-style: normal"><b>&nbsp; <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773/homepage/2002_revi_Nobel.html" style="text-decoration: none">
+	angew</a></b> <b> 
+	<a href="http://pubs.acs.org/">ACS</a></b></span></font></p><p><font size="2"><a href="http://www.cnki.net/" style="text-decoration: none">
+	<span style="font-style: normal" class="ms-announcementtitle">CNKI</span></a>&nbsp;
+	<a href="http://pubs.rsc.org/en/journals/journalissues/cc#!recentarticles&amp;adv">
+	Chemcomm</a>&nbsp; <a href="http://pubs.acs.org/journal/inocaj">IC</a>
+	<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/issues">
+	CAEJ</a></font></p><p>
+	<span style="font-style: normal"> 
+	<b> 
+	<a style="text-decoration: none" href="https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1">
+	OneNote</a>&nbsp; </b> </span><b><a href="https://www.zotero.org/">Zotero</a>&nbsp;
+	</b>
+	<p><span style="font-style: normal"> 
+	<b> 
+	<a style="text-decoration: none" href="http://music.163.com/">网易云音乐</a>&nbsp; 
+	<a style="text-decoration: none" href="http://www.ximalaya.com/explore/">
+	喜马拉雅</a>&nbsp; <a href="file:///N:/Users/Public/Desktop/腾讯QQ轻聊版.lnk" style="text-decoration: none">
+	QQ</a>&nbsp; <a href="../../../../soft%20safe/360compkill64/SuperKiller.exe" style="text-decoration: none">
+	360急救箱</a>&nbsp; </b> </span><a href="我的导航-本地/360云盘.lnk" style="text-decoration: none">
+	<span style="font-style: normal" class="ms-announcementtitle">360云</span></a><p>
+	　</td>
+	</tr>
+</table><!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+</td></tr><!--msnavigation--></table></body></html>
